@@ -11,6 +11,6 @@
         "mapkyca/known-language-tools": "^1.0"
     },
     "extra": {
-        "installer-name": "PeriodicExecutionService"
+        "installer-name": "Statistics"
     }
 }
